@@ -1,6 +1,6 @@
 # Clusta Genomics Ingredient Tool
 
-A custom-built Streamlit app that retrieves comprehensive ingredient data from cosmetic and skincare products using INCI Decoder. Designed to support ingredient transparency and analysis in genomics and public health contexts.
+A custom-built Streamlit app that retrieves comprehensive ingredient data from cosmetic and skincare products. Designed to support ingredient transparency and analysis in genomics and public health contexts.
 
 ---
 
