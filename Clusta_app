@@ -1,0 +1,1 @@
+streamlit run Clusta_Genomics_ingredient_tool.py
